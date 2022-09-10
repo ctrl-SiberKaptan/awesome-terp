@@ -11,8 +11,8 @@ This section includes official, developer, community, and social resources.
 - TerpNet RPC — https://rpc.terp.network
 - TerpNet REST or LCD — https://rest.terp.network
 ### Developer repositories
-- Terp-Core Repository — https://github.com/terpnetwork/node
-- Devnet Repository — https://github.com/terpnetwork/webApp
+- Terp-Core Repository — https://github.com/terpnetwork/terp-core
+- Test-net Repository — https://github.com/terpnetwork/test-net
 
 ### Official Endpoints
 We provide following endpoints to help developers for integration
