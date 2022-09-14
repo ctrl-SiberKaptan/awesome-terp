@@ -13,3 +13,5 @@ Code-Id,Lable
 12,cw_token_swap.wasm
 13,stake_cw20_external_rewards.wasm
 14,stake_cw20_reward_distributor.wasm
+15,cw20_base.wasm
+16,cw4_group.wasm
