@@ -1,18 +1,42 @@
-## Resources
-This section includes official, developer, community, and social resources.
+# Awesome TerpNET
 
-### Official Resources
-- TerpNet Website — https://terp.network
-- TerpNet Explorer — https://explorer.terp.network
-- TerpNet MarketPlace — https://marketplace.terp.network
-- TerpNet Devnet — https://devnet.terp.network
-- TerpNet Blog — https://blog.terp.network
-- TerpNet Documentation — https://docs.terp.network
-- TerpNet RPC — https://rpc.terp.network
-- TerpNet REST or LCD — https://rest.terp.network
-### Developer repositories
-- Terp-Core Repository — https://github.com/terpnetwork/terp-core
-- Test-net Repository — https://github.com/terpnetwork/test-net
+Awesome TerpNetwork is a curated list of awesome resources people can use to familiarize themselves with [TerpNET](https://terp.network) and includes examples of several applications they can deploy on the platform. Please submit a pull request if you know any resources that might be helpful to other developers.
+
+
+Join our [Discord](https://discord.terp.network) if you have questions or concerns. Our team is always eager to hear from you.
+Also, follow [@terpculture](https://twitter.com/terpculture) to stay in the loop with updates and announcements.
+
+## Table of Contents
+
+### Official Resources 
+
+- [Website](https://terp.network)
+- [Documentation](https://docs.terp.network)
+- [Discord](https://discord.gg/SYEjMwAac7)
+- [Element](https://matrix.to/#/!MIEDknobAODITdWMZi:matrix.org?via=matrix.org)
+
+#### Compatible Wallets
+
+- [Keplr](keplr)
+- [Ledger](ledger)
+
+### Testnet Resources  
+
+- [Staking Interface]() 
+- [Explorer]()
+- [Faucet]()
+- [Telescope]()
+- [DAO-DAO-Interface]()
+- [IBC-Bridge]()
+
+#### Main-Net Resources 
+
+- [Staking Interface]()
+- [Explorer]()
+- [Faucet]()
+- [Telescope]()
+- [DAO-DAO-Interface]()
+- [IBC-Bridge]()
 
 ### Official Endpoints
 We provide following endpoints to help developers for integration
@@ -23,28 +47,17 @@ We provide following endpoints to help developers for integration
 |   REST   | `https://rest.terp.network`            |
 |   GRPC   | `grpc://grpc.terp.network`             |
  
-### State-Sync
-To use statesync, change the following under config.toml
 
-[statesync]
-enable = true
-rpc_servers = "https://rpc.terp.network:443,https://rpc.terp.network:443"
-trust_height = 0
-trust_hash = ""
-trust_period = "112h0m0s"
-and use a trusted height from the rpc, recent height will work as well
+### Infrastructure Resources
 
-curl -s https://rpc.terp.network/status | jq '.result .sync_info | {trust_height: .latest_block_height, trust_hash: .latest_block_hash} | values'
+#### Test-Network Resources
+- [Athena-1](./test-net)
+#### Main-Network Resources 
+- [Terp-Core](./terp-core)
 
-### Validator Contributions
-This section includes validator contributions:
+### Tutorials & Useful scripts
+- [Tutorials](/tutorials)
+- [Useful-Scripts](/scripts)
 
-- Wallets
 
-- Explorer
 
-- Relayers
-
-- RPCs
-
-- Bots & Toolings
