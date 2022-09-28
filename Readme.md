@@ -22,21 +22,21 @@ Also, follow [@terpculture](https://twitter.com/terpculture) to stay in the loop
 
 ### Testnet Resources  
 
-- [Staking Interface]() 
-- [Explorer]()
-- [Faucet]()
-- [Telescope]()
-- [DAO-DAO-Interface]()
-- [IBC-Bridge]()
+- [Staking Interface]() *TBD*
+- [Explorer]() *TBD*
+- [Faucet]() *TBD*
+- [Telescope]() *TBD*
+- [DAO-DAO-Interface]() *TBD*
+- [IBC-Bridge]() *TBD*
 
 #### Main-Net Resources 
 
-- [Staking Interface]()
-- [Explorer]()
-- [Faucet]()
-- [Telescope]()
-- [DAO-DAO-Interface]()
-- [IBC-Bridge]()
+- [Staking Interface]() *TBD*
+- [Explorer]() *TBD*
+- [Faucet]() *TBD*
+- [Telescope]() *TBD*
+- [DAO-DAO-Interface]() *TBD*
+- [IBC-Bridge]() *TBD*
 
 ### Official Endpoints
 We provide following endpoints to help developers for integration
@@ -56,8 +56,8 @@ We provide following endpoints to help developers for integration
 - [Terp-Core](./terp-core)
 
 ### Tutorials & Useful scripts
-- [Tutorials](/tutorials)
-- [Useful-Scripts](/scripts)
+- [Tutorials](https://github.com/terpnetwork/test-net)
+- [Community-Scripts](/scripts)
 
 
 
