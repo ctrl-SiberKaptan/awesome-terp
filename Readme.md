@@ -56,8 +56,8 @@ We provide following endpoints to help developers for integration
 - [Terp-Core](./terp-core)
 
 ### Tutorials & Useful scripts
-- [Tutorials](https://github.com/terpnetwork/test-net)
-- [Community-Scripts](/scripts)
+- [Tutorials](https://docs.terp.network/developing/)
+- [Community-Scripts](/community-scripts)
 
 
 
