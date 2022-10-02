@@ -20,23 +20,23 @@ Also, follow [@terpculture](https://twitter.com/terpculture) to stay in the loop
 - [Keplr](keplr)
 - [Ledger](ledger)
 
-### Testnet Resources  
+### Testnet Resources
 
-- [Staking Interface]() *TBD*
-- [Explorer]() *TBD*
-- [Faucet]() *TBD*
-- [Telescope]() *TBD*
-- [DAO-DAO-Interface]() *TBD*
-- [IBC-Bridge]() *TBD*
+- Repo: https://github.com/terpnetwork/test-net 
 
-#### Main-Net Resources 
+### Explorers: 
+[Skynet](https://www.skynetexplorers.com/terpnetwork/) \
+[Bccnodes](https://explorer.bccnodes.com/terp) \
+[KJnodes](https://explorer.kjnodes.com/) \
+[Nodiest](https://exp.nodeist.net/T-Terp/staking) \
+[Nodestake](https://explorer.nodestake.top/terp-testnet) 
+### Faucet
+### Telescope 
+### DAO-DAO-Interface
+### IBC-Bridge
 
-- [Staking Interface]() *TBD*
-- [Explorer]() *TBD*
-- [Faucet]() *TBD*
-- [Telescope]() *TBD*
-- [DAO-DAO-Interface]() *TBD*
-- [IBC-Bridge]() *TBD*
+### Main-Net Resources 
+
 
 ### Official Endpoints
 We provide following endpoints to help developers for integration
@@ -51,7 +51,7 @@ We provide following endpoints to help developers for integration
 ### Infrastructure Resources
 
 #### Test-Network Resources
-- [Athena-1](./test-net)
+- [Athena-1]( https://github.com/terpnetwork/test-net/ )
 #### Main-Network Resources 
 - [Terp-Core](./terp-core)
 
