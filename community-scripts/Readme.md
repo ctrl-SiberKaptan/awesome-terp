@@ -1,7 +1,7 @@
 # Community Created Scripts
 
 *Notice: Please note that these are scripts built by unverified sources, as is , and by using these scripts you understand the risk of executing 
-unauthorize code.*
+unaudited code.*
 
 ## Resources 
 - [NodeJumper: Cheat Sheet](https://nodejumper.io/terpnetwork-testnet/cheat-sheet) 
